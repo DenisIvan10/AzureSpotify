@@ -1,0 +1,9 @@
+{
+	"name": "Az-Spotify-Factory",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5588fa22-8e04-4372-9509-f773a2a83857",
+		"tenantId": "ad9f332d-242d-4f0a-b5db-9c285798e7d7"
+	}
+}
